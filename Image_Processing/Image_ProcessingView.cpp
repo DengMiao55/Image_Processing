@@ -2357,7 +2357,7 @@ void CImage_ProcessingView::OnDetectStraightline()
 	}
 
 	MessageBox(L"1234");
-
+	//upouioikhsafkanf
 	for (int i = 0; i < 180; i++)
 	{
 		for (int j = 0; j < max_ro; j++)
